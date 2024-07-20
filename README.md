@@ -51,8 +51,6 @@ This section covers basic mathematical concepts and their implementation in Java
 This section includes simple Java games to make learning fun. Projects include:
 
 * Guess the Number: A game where the player guesses a randomly generated number.
-* Tic-Tac-Toe: Classic Tic-Tac-Toe game implementation.
-* Snake Game: A simple snake game using Java Swing.
-* Minesweeper: Implementation of the Minesweeper game.
+  
 ## Contributing
 Contributions are welcome! If you have any improvements or new topics to add, feel free to open an issue or create a pull request. Please follow the contributing guidelines.
